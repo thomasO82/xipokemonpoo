@@ -1,6 +1,6 @@
 <?php
 
-class Pokemon
+class Pokemon extends PokemonRepositorie
 {
     private int $id;
     private string $name;
